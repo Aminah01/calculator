@@ -1,0 +1,14 @@
+table{
+    font-size:20px;
+    border: 3px black solid;
+    }
+td{
+    padding:10px;
+    border: 3px black solid;
+}
+input{
+    padding:20px;
+    float:right;
+    background-color:black;
+    color:white;
+}
